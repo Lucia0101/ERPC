@@ -1,4 +1,4 @@
-<p align="center"></strong>Essential Remote PC Controller
+<p align="center"><strong>Essential Remote PC Controller</strong>
 
 <p align="center"><img width="589" height="492" alt="Screenshot 2026-11-26 185551" src="https://github.com/user-attachments/assets/ccde8f19-9fb7-4fd2-8d38-074e5f4d8bba" />
 
